@@ -1,0 +1,17 @@
+# 编译产物
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器
+.vscode/
+*.swp
+
+# 本地实验残留（不纳入公开仓库）
+test/
+src/maze_control/worlds/branch_maze.world
